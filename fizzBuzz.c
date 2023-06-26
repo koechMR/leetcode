@@ -28,6 +28,10 @@ void freeFizzBuzz(char** result, int returnSize) {
     }
     free(result);
 }
+/**
+* main - entry point 
+* Return: 0 on succses
+*/
 
 int main() {
     int n = 20;
